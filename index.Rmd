@@ -10,7 +10,7 @@ bibliography: [book.bib, packages.bib]
 description: |
   《几何原本》教学手记
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+#github-repo: rstudio/bookdown-demo
 ---
 
 # 前言

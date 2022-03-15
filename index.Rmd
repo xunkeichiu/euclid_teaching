@@ -5,7 +5,7 @@ date: "2021年立春"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://xunkeichiu.github.io/euclid_teaching/
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   《几何原本》教学手记
@@ -16,8 +16,7 @@ link-citations: yes
 # 前言
 ## 阅读提示 {-}
 
-于2020年8月有机会教授《几何原本》，第一卷的教学大概持续了3个月左右，大概用了30个课时。在教学过程中一边备课一边记录，写成了这本手记，建议配合欧几里得《几何原本》阅读。对《几何原本》不熟悉的可能需要先预习几何题目。<br>
-如有兴趣，可同时参考我翻译的《几何原本——第一卷的问题与讨论》小书。<br>
+在2020年元旦节期间，我最终完成了《几何原本——第一卷的问题与讨论》小书的翻译。同年8月，我得到了机会教授《几何原本》，第一卷的教学大概持续了3个月左右，大概用了30个课时。在教学过程中一边备课一边记录，写成了这本手记。建议配合我的译作（[《几何原本——第一卷的问题与讨论》](https://xunkeichiu.github.io/euclid_translation/)）一起阅读，因为对《几何原本》不熟悉的可能需要先预习几何题目。<br>
 另注：前十节课时长在一到一个半小时之间，从第十一课开始，课时在一个半到两个小时之间。中间有复习课未计算在内，总的教课时长应该在30小时左右。<br>
 
 ## 序 {-}
